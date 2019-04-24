@@ -37,6 +37,7 @@
 ![Alt text](assets/screenshot8.png?raw=true "Create and deploy API")
 
 ## Step 4: Configure Keycloak
+### Go to the keycloak UI : http://keycloak.docker.localhost
 
 Create a new realm: `brasserie`
 
